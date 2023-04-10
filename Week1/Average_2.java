@@ -1,6 +1,8 @@
-package JobHacker_System.Week1.;
+package JobHacker_System.Week1;
+
 import java.io.IOException;
-import java.util.*;
+import java.util.Scanner;
+
 public class Average_2 {
 
     public static void main(String[] args) throws IOException {
