@@ -1,0 +1,14 @@
+ _________________________
+|       Rectangle         |
+|------------------------ |
+| - width: double         |
+| - height: double        |
+|------------------------ |
+| + Rectangle()           |
+| + Rectangle(w: double,  |
+|    h: double)           |
+| + getArea(): double     |
+| + getPerimeter(): double|
+| + getHeight(): double   |
+| + getWidth(): double    |
+ -------------------------
